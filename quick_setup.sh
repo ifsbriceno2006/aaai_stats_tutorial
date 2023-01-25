@@ -8,5 +8,5 @@ fi
 pip install --upgrade pip
 pip install -r requirements.txt
 python -m ipykernel install --name=aaai_stats_tutorial
-jupyter notebook MaxFlow_Abstract.ipynb
+jupyter notebook Lesson_1_Descriptive_Analytics.ipynb
 
